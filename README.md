@@ -4,6 +4,13 @@ I'm an AI response evaluator and AI fluency coach in Kansas City. I grade and ev
 
 I hold 11 AI certifications across Anthropic, OpenAI, and Microsoft. My stance on AI: it's a tool, not a threat — what matters is whether the humans using it understand it.
 
+## Recent builds
+
+- **Tidefall** — A fully custom 78-card ocean-themed tarot deck and mobile-first tarot app. Original gouache-and-watercolor artwork (teal, seafoam, navy and indigo with gold accents), daily and multi-card readings with Gentle Current / Deep Churn modes, and a searchable card gallery. Designed and built 2026. Created by @0fTh3St4r5.
+- **Chart Atlas** — An interactive astrology atlas that maps one natal chart across 12 traditions — Western tropical and sidereal, Vedic/Jyotish, Chinese BaZi, Hellenistic, Draconic, Mayan Tzolk'in and more — with plain-English walkthroughs for each system, plus numerology. Built 2026.
+- **Psychic Gym** — A private practice app for intuition training: structured exercises and drills for developing pattern recognition and gut-instinct skills, designed and built 2026.
+- **Family Meal Planner** — A family meal-planning app: save and organize meals, build weekly plans, auto-generate deduplicated grocery lists, and a dinner spinner for decision fatigue nights. Rebuilt and expanded 2026.
+
 ## What I've built
 
 **Emotional wellness & communication**
