@@ -35,5 +35,7 @@ I hold 11 AI certifications across Anthropic, OpenAI, and Microsoft. My stance o
 ## Find me
 
 LinkedIn: linkedin.com/in/merissafisher • Upwork: upwork.com/freelancers/~0144578b5bc2f39026 • Everything else: linktr.ee/M3riss4
+Fiverr: https://www.fiverr.com/ofth3sea
+Mercor: AI response evaluation profile (employer marketplace)
 
 Open to flexible remote AI evaluation / training / literacy work, 8–15 hours a week.
