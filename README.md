@@ -6,7 +6,7 @@ I hold 11 AI certifications across Anthropic, OpenAI, and Microsoft. My stance o
 
 ## Work with me
 - **AI fluency coaching** — I make AI make sense, for real life and small business.
-- **Personalized apps & websites** — I build the right app or website for you: very personal apps & websites for common people, built around your life. Free consultations — find me at @0fth3sea on Instagram or on Fiverr (ofth3sea).
+- **Personalized apps & websites** — I build the right app or website for you: very personal apps & websites for common people, built around your life. Free consultations — find me at @0fth3sea on Instagram or on Fiverr (ofth3sea). Websites: a simple personal site fits the Mini or Signature package; a full working website — with its own tool, booking, or card payments — is Fully Custom, from $300, quoted after a free consultation.
 - **Astrology** — readings and painted natal charts via @0fth3st4r5.
 
 ## Recent builds
