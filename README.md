@@ -4,6 +4,11 @@ I'm an AI response evaluator and AI fluency coach in Kansas City. I grade and ev
 
 I hold 11 AI certifications across Anthropic, OpenAI, and Microsoft. My stance on AI: it's a tool, not a threat — what matters is whether the humans using it understand it.
 
+## Work with me
+- **AI fluency coaching** — I make AI make sense, for real life and small business.
+- **Personalized apps** — I build the right app for you: very personal apps for common people, built around your life. Free consultations — find me at @0fth3sea on Instagram or on Fiverr (ofth3sea).
+- **Astrology** — readings and painted natal charts via @0fth3st4r5.
+
 ## Recent builds
 
 - **Tidefall** — A fully custom 78-card ocean-themed tarot deck and mobile-first tarot app. Original gouache-and-watercolor artwork (teal, seafoam, navy and indigo with gold accents), daily and multi-card readings with Gentle Current / Deep Churn modes, and a searchable card gallery. Designed and built 2026. Created by @0fTh3St4r5.
